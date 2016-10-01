@@ -1,0 +1,6 @@
+name:Bobby Malone
+team:Bouncing Beans
+batskill:79
+catchskill:60
+throwskill:64
+speed:56

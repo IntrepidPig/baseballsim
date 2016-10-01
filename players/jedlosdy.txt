@@ -1,0 +1,6 @@
+name:Jed Losdy
+team:Lazorz
+batskill:71
+catchskill:45
+throwskill:58
+speed:67

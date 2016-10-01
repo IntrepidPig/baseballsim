@@ -1,0 +1,6 @@
+name:Terry Cruz
+team:Lazorz
+batskill:57
+catchskill:92
+throwskill:74
+speed:76

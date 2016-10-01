@@ -1,0 +1,6 @@
+name:Cory Chad
+team:Bouncing Beans
+batskill:57
+catchskill:52
+throwskill:78
+speed:82
